@@ -1,5 +1,5 @@
 #include "hi.h"
 
 void hi(const std::string & str){
-  std::cout << "Hi " << str << std::endl;
+  std::cout << "Hiiiiiii " << str << std::endl;
 }
